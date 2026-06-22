@@ -387,3 +387,43 @@ header {
         justify-self: stretch;
     }
 }
+
+.contact {
+    padding: 5rem 2rem;
+    background-color: var(--bg-color);
+    text-align: center;
+}
+
+.contact-desc {
+    color: var(--text-muted);
+    max-width: 600px;
+    margin: 0 auto 3rem auto;
+    font-size: 1.125rem;
+    line-height: 1.8;
+}
+
+.contact-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.contact-item {
+    display: inline-block;
+    padding: 0.875rem 2.5rem;
+    background-color: transparent;
+    color: var(--text-main);
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all var(--transition-speed) ease;
+}
+
+.contact-item:hover {
+    background-color: black;
+    color: #ffffff;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+}
