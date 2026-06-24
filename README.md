@@ -68,16 +68,12 @@ The project focuses on the following concepts:
 
 ## Project Structure
 
-```text
-portfolio-landing-page/
-│
+portfolio/
+├── .gitattributes
+├── README.md
 ├── index.html
-├── css/
-│   └── style.css
-├── images/
-│   └── profile.jpg
-└── README.md
-```
+├── my-profile.jpeg
+└── style.css
 
 ## Assignment Requirements Covered
 
