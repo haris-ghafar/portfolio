@@ -1,6 +1,9 @@
-# Portfolio Landing Page
+## Portfolio Landing Page
 
 A responsive Portfolio Landing Page built using **HTML5** and **CSS3** as part of an assignment in an **AI Full Stack Engineering Fellowship Program**.
+
+## Live Demo
+https://haris-ghafar.github.io/portfolio/
 
 ## About the Project
 
